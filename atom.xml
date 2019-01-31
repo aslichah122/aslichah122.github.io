@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-17T07:42:13.669Z</updated>
+  <updated>2019-01-31T06:01:19.622Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>pages</title>
-    <link href="http://yoursite.com/2019/01/17/pages/"/>
-    <id>http://yoursite.com/2019/01/17/pages/</id>
-    <published>2019-01-17T07:42:13.000Z</published>
-    <updated>2019-01-17T07:42:13.669Z</updated>
+    <title>Tutorial</title>
+    <link href="http://yoursite.com/2019/01/29/Tutorial/"/>
+    <id>http://yoursite.com/2019/01/29/Tutorial/</id>
+    <published>2019-01-29T01:20:51.000Z</published>
+    <updated>2019-01-31T06:01:19.622Z</updated>
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-Membuat-Akun-dan-Repository-Github&quot;&gt;&lt;a href=&quot;#1-Membuat-Akun-dan-Repository-Github&quot; class=&quot;headerlink&quot; title=&quot;1. Membuat Akun dan
+        
+      
+    
     </summary>
     
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
     
   </entry>
   

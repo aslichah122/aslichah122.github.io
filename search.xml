@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>pages</title>
-      <link href="/2019/01/17/pages/"/>
-      <url>/2019/01/17/pages/</url>
+      <title>Tutorial</title>
+      <link href="/2019/01/29/Tutorial/"/>
+      <url>/2019/01/29/Tutorial/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="1-Membuat-Akun-dan-Repository-Github"><a href="#1-Membuat-Akun-dan-Repository-Github" class="headerlink" title="1. Membuat Akun dan Repository Github"></a>1. Membuat Akun dan Repository Github</h2><p>Buat akun Github, dengan langkah langkah sebagai berikut:</p><ol><li>Buka website <a href="https://github.com" target="_blank" rel="noopener">https://github.com</a>. kemudian klik sign up, seperti gambar dibawah ini,<br><img src="/Gambar/Capture.PNG" alt=""><br>Kemudian buatlah New Repository seperti gambar berikut,<br><img src="/Gambar/Capture2.PNG" alt=""></li><li><p>Install Node.Js dan Hexo</p><p>klik link-&gt;<a href="https://nodejs.org/en/download/" target="_blank" rel="noopener">https://nodejs.org/en/download/</a> untuk install Node.Js,</p><p>Sekarang kita install hexo, dengan menulis seperti dibawah:</p><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo -cli</span><br></pre></td></tr></table></figure><p>Kalian bisa check versi hexo dengan cara seperti ini:</p><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure></li><li><p>Membuat Halaman Github</p><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init username.github.io</span><br><span class="line">$ <span class="built_in">cd</span> username.github.io</span><br></pre></td></tr></table></figure></li><li><p>Memilih Tema</p></li></ol>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
